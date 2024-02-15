@@ -11,8 +11,9 @@ I'm a highly skilled Software Developer Engineer with a passion for crafting eff
 - 💬 Ask me about web development, software architecture, and technology in general.
 --->
 ## Connect with Me
-
+<!---
 - 📧 Email: akshat26soni@gmail.com
+--->
 - 🔗 LinkedIn: [LinkedIn Profile](<https://www.linkedin.com/in/akshatsoni26/>)
 - 🌐 Portfolio: [Portfolio Site](<https://my-portfolio-akshatsoni26.vercel.app/>)
 
