@@ -2,31 +2,35 @@
 
 ## About Me
 
-I'm a highly skilled Software Developer Engineer with a passion for crafting efficient and innovative solutions. My expertise spans both frontend and backend development, and I enjoy working with a diverse range of technologies.
+Full-stack **Founding Engineer** building AI-powered legal-tech infrastructure at **Lexomat**. I architect LLM systems, distributed backends, and performant web applications from 0→1.
 
-- 🔭 I’m currently working at <b>eSaral</b> as a SDE.
-- 🌱 I’m constantly learning and exploring new technologies.
-- 👯 I’m open to collaboration on interesting projects.
- <!---
-- 💬 Ask me about web development, software architecture, and technology in general.
---->
+Currently working with **LangChain (LangGraph )**, **RAG pipelines**, **RabbitMQ**, **Redis**, and **Cloud Run** to build intelligent systems at scale.
+
+- 🚀 Currently: **Founding Engineer @ Lexomat** (solo-building entire platform)
+- 🔨 Building: AI/LLM infrastructure, distributed systems, full-stack web + mobile apps
+- 🎯 Expertise: Next.js, React, React Native, Python, FastAPI, Django, LangChain, RabbitMQ
+- 💡 I love: Distributed systems, real-time architectures, LLM orchestration, performant UIs
+- 🌱 Previously: Built learning platforms serving **10,000+ daily active users** at eSaral
+
+## Tech Stack
+
+**AI/ML:** LangChain • LangGraph • LiteLLM • RAG • Vector Databases
+
+**Frontend & Mobile:** Next.js • React • React Native • TypeScript • GSAP • Three.js • Tailwind CSS
+
+**Backend:** Python • FastAPI • Django • Node.js • PostgreSQL • Redis • RabbitMQ
+
+**Cloud/DevOps:** GCP (Cloud Run) • AWS (Lambda, EC2) • Docker • Grafana • BetterStack
+
 ## Connect with Me
-<!---
+
+- 🌐 Portfolio: [akshatsoni.dev](https://akshatsoni.dev)
+- 💼 LinkedIn: [linkedin.com/in/akshatsoni26](https://www.linkedin.com/in/akshatsoni26/)
 - 📧 Email: akshat26soni@gmail.com
---->
-- 🔗 LinkedIn: [LinkedIn Profile](<https://www.linkedin.com/in/akshatsoni26/>)
-- 🌐 Portfolio: [Portfolio Site](<https://my-portfolio-khaki-five.vercel.app/>)
+- 📝 Blog: [dev.to/akshatsoni26](https://dev.to/akshatsoni26)
 
-<!---
-## Pronouns
+---
 
-- He/Him
-## Fun Fact
+**Open to opportunities** in AI/LLM infrastructure, founding engineer roles, and building 0→1 products.
 
-I love combining technology with creativity, and I'm always up for a challenge to solve complex problems!
---->
-
-<!---
-AkshatSoni26/AkshatSoni26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's build something amazing together! 🚀
