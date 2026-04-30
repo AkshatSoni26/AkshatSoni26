@@ -24,7 +24,7 @@ Currently working with **LangChain (LangGraph )**, **RAG pipelines**, **RabbitMQ
 
 ## Connect with Me
 
-- 🌐 Portfolio: [akshatsoni.dev](https://akshatsoni.dev)
+- 🌐 Portfolio: [https://asoni.vercel.app/](https://asoni.vercel.app/)
 - 💼 LinkedIn: [linkedin.com/in/akshatsoni26](https://www.linkedin.com/in/akshatsoni26/)
 - 📧 Email: akshat26soni@gmail.com
 - 📝 Blog: [dev.to/akshatsoni26](https://dev.to/akshatsoni26)
